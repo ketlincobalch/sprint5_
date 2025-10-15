@@ -1,7 +1,3 @@
-*.py[codz]
-*$py.class
-
-.vscode/
-
-#C extensions
-*.so
+pandas
+plotly-express
+streamlit
